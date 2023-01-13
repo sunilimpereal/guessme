@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765078277367",
+    "project_id": "guess-me-c8318",
+    "storage_bucket": "guess-me-c8318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765078277367:android:76a1a47cd3f677a0c5d7f2",
+        "android_client_info": {
+          "package_name": "com.impereal.guessme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765078277367-me8m1v1nsn2okovdr53cvlbkob0csntg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvpywG_Z6UF_8DA9tHBuOwUMb3S5iRUjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765078277367-me8m1v1nsn2okovdr53cvlbkob0csntg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
